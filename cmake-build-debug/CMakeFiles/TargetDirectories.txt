@@ -1,0 +1,3 @@
+C:/Users/scott/Documents/4. semester/nettverksprog/oving4/httpsServer/cmake-build-debug/CMakeFiles/httpsServer.dir
+C:/Users/scott/Documents/4. semester/nettverksprog/oving4/httpsServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/scott/Documents/4. semester/nettverksprog/oving4/httpsServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
