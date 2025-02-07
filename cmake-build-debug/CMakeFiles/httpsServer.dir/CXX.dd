@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/httpsServer.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/httpsServer.dir/src/TLSServer.cpp.obj: dyndep
+
+build CMakeFiles/httpsServer.dir/src/TLSClient.cpp.obj: dyndep
+

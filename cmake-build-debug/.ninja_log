@@ -1,0 +1,10 @@
+# ninja log v5
+53	1458	7606369319032641	CMakeFiles/httpsServer.dir/src/TLSClient.cpp.obj.ddi	334aa2a084e1e96c
+1459	1497	7606369319648057	CMakeFiles/httpsServer.dir/main.cpp.obj.modmap	16f3c1765d7e02fd
+38	1458	7606369318947557	CMakeFiles/httpsServer.dir/main.cpp.obj.ddi	277e7cb7f9f5ce59
+46	1429	7606369318761504	CMakeFiles/httpsServer.dir/src/TLSServer.cpp.obj.ddi	4d540ec12fc70d2b
+1459	1497	7606369319648057	C:/Users/scott/Documents/4. semester/nettverksprog/oving4/httpsServer/cmake-build-debug/CMakeFiles/httpsServer.dir/CXXModules.json	16f3c1765d7e02fd
+1459	1497	7606369319648057	CMakeFiles/httpsServer.dir/CXX.dd	16f3c1765d7e02fd
+1459	1497	7606369319648057	CMakeFiles/httpsServer.dir/src/TLSServer.cpp.obj.modmap	16f3c1765d7e02fd
+1459	1497	7606369319648057	CMakeFiles/httpsServer.dir/src/TLSClient.cpp.obj.modmap	16f3c1765d7e02fd
+2	649	7606369409520232	build.ninja	1a715978926e34e8
