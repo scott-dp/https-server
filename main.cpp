@@ -1,4 +1,3 @@
-#include <iostream>
 #include <asio.hpp>
 #include "include/TLSServer.h"
 #include "include/TLSClient.h"

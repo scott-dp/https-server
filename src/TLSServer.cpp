@@ -35,8 +35,8 @@ asio::awaitable<void> TLSServer::start() {
 
     cout << "Server: waiting for connection" << endl;
     asio::ssl::context ssl_context(asio::ssl::context::tlsv13_server);
-    ssl_context.use_certificate_chain_file("server.crt");
-    ssl_context.use_private_key_file("server.key", asio::ssl::context::pem);
+    ssl_context.use_certificate_chain_file("../cert.crt");
+    ssl_context.use_private_key_file("../cert.key", asio::ssl::context::pem);
     for (;;) {
         asio::ssl::stream<asio::ip::tcp::socket> socket(co_await acceptor.async_accept(asio::use_awaitable), ssl_context);
         cout << "Server: connection from " << socket.lowest_layer().remote_endpoint().address() << ':' << socket.lowest_layer().remote_endpoint().port() << endl;
