@@ -9,7 +9,5 @@ add_compile_definitions(_WIN32_WINNT=0x0A00)
 add_executable(httpsServer main.cpp
         src/TLSServer.cpp
         include/TLSServer.h
-        src/TLSClient.cpp
-        include/TLSClient.h
 )
 target_link_libraries(httpsServer PRIVATE ws2_32 mswsock)
